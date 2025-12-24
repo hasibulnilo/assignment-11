@@ -79,10 +79,10 @@
 ---
 
 ### 👨‍💻 Developed By
-**Mohammad Abed Azim**
+**Hasibul Islam Niloy**
 - [LinkedIn]()
 - [Facebook]()
 - [GitHub]()
 
 ---
-© 2025 UrbanPulse. Built for a better tomorrow.
+© 2025 Public Infrastructure Issue Reporting System. Built for a better tomorrow.
