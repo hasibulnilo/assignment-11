@@ -80,7 +80,7 @@
 
 ### 👨‍💻 Developed By
 **Hasibul Islam Niloy**
-- [LinkedIn]()
+- [LinkedIn](https://linkedin.com/in/hasibulislamniloy)
 - [Facebook]()
 - [GitHub]()
 
