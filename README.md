@@ -13,7 +13,7 @@
 > [!IMPORTANT]
 > For evaluation purposes, please use the following credentials to access the Admin Dashboard:
 > - **Email:** `admin@gmail.com`
-> - **Password:** `Niloy12@s`
+> - **Password:** `Niloy12@`
 
 ---
 
