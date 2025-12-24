@@ -1,0 +1,173 @@
+{
+  "division": "Dhaka",
+  "districts": [
+    {
+      "district": "Dhaka",
+      "upazilas": [
+        "Dhanmondi",
+        "Gulshan",
+        "Banani",
+        "Mirpur",
+        "Uttara",
+        "Mohammadpur",
+        "Motijheel",
+        "Ramna",
+        "Tejgaon",
+        "Pallabi",
+        "Kafrul",
+        "Badda",
+        "Khilgaon",
+        "Sabujbagh",
+        "Demra",
+        "Jatrabari",
+        "Shyampur",
+        "Kamrangirchar",
+        "Hazaribagh",
+        "Lalbagh",
+        "Kotwali"
+      ]
+    },
+    {
+      "district": "Gazipur",
+      "upazilas": [
+        "Gazipur Sadar",
+        "Kaliakair",
+        "Kaliganj",
+        "Kapasia",
+        "Sreepur"
+      ]
+    },
+    {
+      "district": "Narayanganj",
+      "upazilas": [
+        "Narayanganj Sadar",
+        "Araihazar",
+        "Bandar",
+        "Rupganj",
+        "Sonargaon"
+      ]
+    },
+    {
+      "district": "Narsingdi",
+      "upazilas": [
+        "Narsingdi Sadar",
+        "Belabo",
+        "Monohardi",
+        "Palash",
+        "Raipura",
+        "Shibpur"
+      ]
+    },
+    {
+      "district": "Munshiganj",
+      "upazilas": [
+        "Munshiganj Sadar",
+        "Gazaria",
+        "Lohajang",
+        "Sirajdikhan",
+        "Sreenagar",
+        "Tongibari"
+      ]
+    },
+    {
+      "district": "Manikganj",
+      "upazilas": [
+        "Manikganj Sadar",
+        "Daulatpur",
+        "Ghior",
+        "Harirampur",
+        "Saturia",
+        "Shibalaya",
+        "Singair"
+      ]
+    },
+    {
+      "district": "Madaripur",
+      "upazilas": [
+        "Madaripur Sadar",
+        "Kalkini",
+        "Rajoir",
+        "Shibchar"
+      ]
+    },
+    {
+      "district": "Gopalganj",
+      "upazilas": [
+        "Gopalganj Sadar",
+        "Kashiani",
+        "Kotalipara",
+        "Muksudpur",
+        "Tungipara"
+      ]
+    },
+    {
+      "district": "Faridpur",
+      "upazilas": [
+        "Faridpur Sadar",
+        "Alfadanga",
+        "Bhanga",
+        "Boalmari",
+        "Charbhadrasan",
+        "Madhukhali",
+        "Nagarkanda",
+        "Sadarpur",
+        "Saltha"
+      ]
+    },
+    {
+      "district": "Rajbari",
+      "upazilas": [
+        "Rajbari Sadar",
+        "Baliakandi",
+        "Goalandaghat",
+        "Pangsha",
+        "Kalukhali"
+      ]
+    },
+    {
+      "district": "Shariatpur",
+      "upazilas": [
+        "Shariatpur Sadar",
+        "Damudya",
+        "Gosairhat",
+        "Naria",
+        "Zajira",
+        "Bhedarganj"
+      ]
+    },
+    {
+      "district": "Kishoreganj",
+      "upazilas": [
+        "Kishoreganj Sadar",
+        "Austagram",
+        "Bajitpur",
+        "Bhairab",
+        "Hossainpur",
+        "Itna",
+        "Karimganj",
+        "Katiadi",
+        "Mithamain",
+        "Nikli",
+        "Pakundia",
+        "Tarail"
+      ]
+    },
+    {
+      "district": "Tangail",
+      "upazilas": [
+        "Tangail Sadar",
+        "Basail",
+        "Bhuapur",
+        "Delduar",
+        "Dhanbari",
+        "Ghatail",
+        "Gopalpur",
+        "Kalihati",
+        "Madhupur",
+        "Mirzapur",
+        "Nagarpur",
+        "Sakhipur"
+      ]
+    }
+  ]
+}
