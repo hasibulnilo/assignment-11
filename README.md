@@ -82,7 +82,7 @@
 **Hasibul Islam Niloy**
 - [LinkedIn](https://linkedin.com/in/hasibulislamniloy)
 - [Facebook](https://www.facebook.com/share/19yVPxNe6H/)
-- [GitHub]()
+- [GitHub](https://github.com/hasibulnilo)
 
 ---
 © 2025 Public Infrastructure Issue Reporting System. Built for a better tomorrow.
