@@ -7,7 +7,7 @@
 ### 🌐 Vital Links
 - **Live Site URL:** [https://public-infrastructure-issue-report.netlify.app/](https://public-infrastructure-issue-report.netlify.app/)
 - **Client Repo:** [https://github.com/hasibulnilo/assignment-11.git](https://github.com/hasibulnilo/assignment-11.git)
-- **Server Repo:** []()
+- **Server Repo:** [https://github.com/hasibulnilo/assignment-11-server.git](https://github.com/hasibulnilo/assignment-11-server.git)
 
 ### 🔑 Admin Credentials (Testing)
 > [!IMPORTANT]
